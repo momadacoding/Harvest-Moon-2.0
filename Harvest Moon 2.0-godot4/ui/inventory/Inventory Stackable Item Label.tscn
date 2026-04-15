@@ -1,0 +1,38 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://ui/inventory/Stackable Item Font.ttf" type="FontFile" id=1]
+
+[sub_resource type="FontFile" id=1]
+
+size = 200
+use_mipmaps = false
+use_filter = false
+font_data = ExtResource( 1 )
+_sections_unfolded = [ "Font", "Settings" ]
+
+[node name="Stackable Item Label" type="Label"]
+
+anchor_left = 0.0
+anchor_top = 0.0
+anchor_right = 0.0
+anchor_bottom = 0.0
+offset_left = 70.0
+offset_top = 63.0
+offset_right = 298.0
+offset_bottom = 336.0
+scale = Vector2( 0.1, 0.1 )
+pivot_offset = Vector2( 0, 0 )
+clip_contents = false
+mouse_filter = 2
+mouse_default_cursor_shape = 0
+size_flags_horizontal = 1
+size_flags_vertical = 4
+theme_override_fonts/font = SubResource( 1 )
+theme_override_colors/font_color = Color( 0, 0, 0, 1 )
+align = 1
+percent_visible = 1.0
+lines_skipped = 0
+max_lines_visible = -1
+_sections_unfolded = [ "Grow Direction", "Rect", "custom_colors", "custom_fonts" ]
+
+
