@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=2]
 
-[ext_resource path="res://menus/graphics/Graphics.gd" type="Script" id=1]
+[ext_resource path="res://menus/graphics/GraphicsMenu.cs" type="Script" id=1]
 [ext_resource path="res://menus/main/back to main menu button/Back to Main Menu.tscn" type="PackedScene" id=2]
 
 [node name="Graphics" type="Control"]
@@ -233,4 +233,3 @@ _sections_unfolded = [ "Focus", "Rect" ]
 [connection signal="item_selected" from="Graphics Container/Resolution Container/Resolution Drop Down" to="." method="_on_Resolution_Drop_Down_item_selected"]
 
 [connection signal="item_selected" from="Graphics Container/Window Container/Window Drop Down" to="." method="_on_Window_Drop_Down_item_selected"]
-

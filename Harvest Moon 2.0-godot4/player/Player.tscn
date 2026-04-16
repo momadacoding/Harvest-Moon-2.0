@@ -1,6 +1,6 @@
 [gd_scene load_steps=244 format=2]
 
-[ext_resource path="res://player/Player.gd" type="Script" id=1]
+[ext_resource path="res://player/Player.cs" type="Script" id=1]
 [ext_resource path="res://player/animations/idle/Idle Up.png" type="Texture2D" id=2]
 [ext_resource path="res://player/animations/axe/axeUp1.png" type="Texture2D" id=3]
 [ext_resource path="res://player/animations/axe/axeUp2.png" type="Texture2D" id=4]
@@ -657,4 +657,3 @@ offset_top = 36.0
 offset_right = 411.0
 offset_bottom = 820.0
 scale = Vector2( 0.12, 0.12 )
-

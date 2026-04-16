@@ -1,2 +1,30 @@
 res://default_env.tres
-res://Game.gd
+res://menus/main/MainMenu.tscn
+res://menus/dialogue/Dialogue.cs
+res://menus/graphics/GraphicsMenu.cs
+res://menus/main/back to main menu button/BackToMainMenuButton.cs
+res://menus/load/LoadGameMenu.cs
+res://menus/main/MainMenu.cs
+res://save_load/GameManager.cs
+res://ui/dashboard/weather/DashboardWeather.cs
+res://areas/Town.cs
+res://menus/pause/Save Game/BackToSaveMenu.cs
+res://areas/House.cs
+res://shaders/WorldShaders.cs
+res://menus/pause/Back to Pause Menu Button/BackToPauseMenuButton.cs
+res://areas/Farm.cs
+res://sound/GameSoundManager.cs
+res://menus/pause/PauseMenu.cs
+res://ui/dashboard/Dashboard.cs
+res://Game.cs
+res://menus/pause/Save Game/SaveGameMenu.cs
+res://ui/energy/EnergyBar.cs
+res://player/Player.cs
+res://ui/inventory/PlayerInventory.cs
+res://menus/shop/ShopMenu.cs
+res://menus/shop/Buy/BuyMenu.cs
+res://ui/hotbar/Hotbar.cs
+res://ui/dashboard/timeManager/DashboardTimeManager.cs
+res://menus/pause/Save Game/BackToPauseMenuFromSaveMenu.cs
+res://menus/shop/Sell/SellMenu.cs
+res://grid/GridVisualizer.cs

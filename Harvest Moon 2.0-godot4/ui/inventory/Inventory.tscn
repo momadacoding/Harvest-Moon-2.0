@@ -1,6 +1,6 @@
 [gd_scene load_steps=11 format=2]
 
-[ext_resource path="res://ui/inventory/Inventory.gd" type="Script" id=1]
+[ext_resource path="res://ui/inventory/PlayerInventory.cs" type="Script" id=1]
 [ext_resource path="res://ui/inventory/Inventory Background.png" type="Texture2D" id=2]
 [ext_resource path="res://ui/hotbar/Equipped Item Indicator.png" type="Texture2D" id=3]
 [ext_resource path="res://ui/inventory/tools and items/StrawberrySeeds.png" type="Texture2D" id=4]
@@ -2110,5 +2110,4 @@ _sections_unfolded = [ "Rect" ]
 [connection signal="pressed" from="Hotbar Grid Container/Button39" to="." method="_on_button_pressed" binds= [ 39 ]]
 
 [connection signal="pressed" from="Hotbar Grid Container/Button40" to="." method="_on_button_pressed" binds= [ 40 ]]
-
 

@@ -1,12 +1,12 @@
 [gd_scene load_steps=8 format=2]
 
-[ext_resource path="res://menus/pause/Pause.gd" type="Script" id=1]
+[ext_resource path="res://menus/pause/PauseMenu.cs" type="Script" id=1]
 [ext_resource path="res://menus/controls/Controls Container.tscn" type="PackedScene" id=2]
 [ext_resource path="res://menus/pause/Back to Pause Menu Button/Back to Pause Menu.tscn" type="PackedScene" id=3]
-[ext_resource path="res://menus/pause/Save Game/Save Game.gd" type="Script" id=4]
-[ext_resource path="res://menus/pause/Save Game/Back to Pause Menu from Save Menu.gd" type="Script" id=5]
+[ext_resource path="res://menus/pause/Save Game/SaveGameMenu.cs" type="Script" id=4]
+[ext_resource path="res://menus/pause/Save Game/BackToPauseMenuFromSaveMenu.cs" type="Script" id=5]
 [ext_resource path="res://menus/controls/keys/Back.png" type="Texture2D" id=6]
-[ext_resource path="res://menus/pause/Save Game/Back to Save Menu.gd" type="Script" id=7]
+[ext_resource path="res://menus/pause/Save Game/BackToSaveMenu.cs" type="Script" id=7]
 
 [node name="PauseMenu" type="Control"]
 
@@ -622,4 +622,3 @@ _sections_unfolded = [ "Margin", "Rect" ]
 [connection signal="text_submitted" from="Save Game/New Save Menu/New Save" to="Save Game" method="_on_New_Save_text_entered"]
 
 [connection signal="pressed" from="Save Game/New Save Menu/Back to Save Menu/Container/Button" to="Save Game/New Save Menu/Back to Save Menu" method="_on_Button_pressed"]
-

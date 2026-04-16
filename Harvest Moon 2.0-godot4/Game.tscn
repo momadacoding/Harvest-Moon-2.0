@@ -1,22 +1,22 @@
 [gd_scene load_steps=40 format=2]
 
-[ext_resource path="res://Game.gd" type="Script" id=1]
-[ext_resource path="res://areas/Farm.gd" type="Script" id=2]
+[ext_resource path="res://Game.cs" type="Script" id=1]
+[ext_resource path="res://areas/Farm.cs" type="Script" id=2]
 [ext_resource path="res://player/Player.tscn" type="PackedScene" id=3]
 [ext_resource path="res://tilesets/tres files/crops.tres" type="TileSet" id=4]
 [ext_resource path="res://tilesets/tres files/dirtTiles.tres" type="TileSet" id=5]
 [ext_resource path="res://tilesets/tres files/rockWoodWeedTileset.tres" type="TileSet" id=6]
 [ext_resource path="res://tilesets/tres files/exploreObjectTiles.tres" type="TileSet" id=7]
 [ext_resource path="res://tilesets/tres files/exploreTiles.tres" type="TileSet" id=8]
-[ext_resource path="res://grid/GridVisualizer.gd" type="Script" id=9]
-[ext_resource path="res://areas/House.gd" type="Script" id=10]
+[ext_resource path="res://grid/GridVisualizer.cs" type="Script" id=9]
+[ext_resource path="res://areas/House.cs" type="Script" id=10]
 [ext_resource path="res://tilesets/tres files/interiorItemTiles.tres" type="TileSet" id=11]
 [ext_resource path="res://tilesets/tres files/interiorTiles.tres" type="TileSet" id=12]
-[ext_resource path="res://areas/Town.gd" type="Script" id=13]
+[ext_resource path="res://areas/Town.cs" type="Script" id=13]
 [ext_resource path="res://tilesets/tres files/Shops, Details.tres" type="TileSet" id=14]
 [ext_resource path="res://tilesets/tres files/Bubbles.tres" type="TileSet" id=15]
 [ext_resource path="res://tilesets/tres files/Town Tiles and Trees.tres" type="TileSet" id=16]
-[ext_resource path="res://sound/SoundManager.gd" type="Script" id=17]
+[ext_resource path="res://sound/GameSoundManager.cs" type="Script" id=17]
 [ext_resource path="res://sound/effects/bell.wav" type="AudioStream" id=18]
 [ext_resource path="res://sound/effects/drop.wav" type="AudioStream" id=19]
 [ext_resource path="res://sound/effects/harvest.wav" type="AudioStream" id=20]
@@ -36,7 +36,7 @@
 [ext_resource path="res://sound/tools/seeds.wav" type="AudioStream" id=34]
 [ext_resource path="res://sound/tools/sickle.wav" type="AudioStream" id=35]
 [ext_resource path="res://sound/tools/watering.wav" type="AudioStream" id=36]
-[ext_resource path="res://shaders/Shaders.gd" type="Script" id=37]
+[ext_resource path="res://shaders/WorldShaders.cs" type="Script" id=37]
 [ext_resource path="res://menus/shop/Shop.tscn" type="PackedScene" id=38]
 [ext_resource path="res://menus/pause/Pause.tscn" type="PackedScene" id=39]
 
@@ -870,4 +870,3 @@ offset_right = 832.0
 offset_bottom = 407.0
 custom_minimum_size = Vector2( 480, 270 )
 _sections_unfolded = [ "Mouse", "Pause", "Rect", "Transform3D", "Z Index" ]
-

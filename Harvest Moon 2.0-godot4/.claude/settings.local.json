@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find '/c/Users/liuhao/workspace/dev/Dev/Harvest-Moon-2.0/Harvest Moon 2.0-godot4' -name *.gd -type f)"
+    ]
+  }
+}

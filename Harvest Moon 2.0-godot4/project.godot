@@ -12,19 +12,23 @@ config_version=5
 
 config/name="Harvest Moon 2.0 (backup)"
 run/main_scene="res://menus/main/MainMenu.tscn"
-config/features=PackedStringArray("4.6")
+config/features=PackedStringArray("4.6", "C#")
 boot_splash/image="res://Boot Splash and Icon/Harvest Moon Boot Splash.png"
 config/icon="res://player/animations/idle/Idle Down.png"
 
 [autoload]
 
-GameManager="*res://save_load/GameManager.gd"
+GameManager="*res://save_load/GameManager.cs"
 
 [display]
 
 window/size/viewport_width=1366
 window/size/viewport_height=768
 window/stretch/mode="viewport"
+
+[dotnet]
+
+project/assembly_name="HarvestMoon2Godot4"
 
 [input]
 

@@ -1,6 +1,6 @@
 [gd_scene load_steps=27 format=2]
 
-[ext_resource path="res://ui/hotbar/Hotbar.gd" type="Script" id=1]
+[ext_resource path="res://ui/hotbar/Hotbar.cs" type="Script" id=1]
 [ext_resource path="res://ui/hotbar/Hotbar.png" type="Texture2D" id=2]
 [ext_resource path="res://ui/hotbar/Equipped Item Indicator.png" type="Texture2D" id=3]
 [ext_resource path="res://ui/inventory/tools and items/Watering Can.png" type="Texture2D" id=4]
@@ -733,5 +733,4 @@ _sections_unfolded = [ "Rect" ]
 [connection signal="pressed" from="Hotbar Grid Container/Button9" to="." method="_button_pressed" binds= [ 9 ]]
 
 [connection signal="pressed" from="Hotbar Grid Container/Button10" to="." method="_button_pressed" binds= [ 10 ]]
-
 

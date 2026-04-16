@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=2]
 
-[ext_resource path="res://menus/pause/Back to Pause Menu Button/Back to Pause Menu.gd" type="Script" id=1]
+[ext_resource path="res://menus/pause/Back to Pause Menu Button/BackToPauseMenuButton.cs" type="Script" id=1]
 [ext_resource path="res://menus/controls/keys/Back.png" type="Texture2D" id=2]
 
 [node name="Back to Pause Menu" type="Control" index="0"]
@@ -109,4 +109,3 @@ max_lines_visible = -1
 _sections_unfolded = [ "Margin", "Rect" ]
 
 [connection signal="pressed" from="Container/Button" to="." method="_on_Button_pressed"]
-

@@ -1,14 +1,14 @@
 [gd_scene load_steps=45 format=2]
 
-[ext_resource path="res://menus/shop/Shop Menu.gd" type="Script" id=1]
-[ext_resource path="res://menus/shop/Buy/Buy.gd" type="Script" id=2]
+[ext_resource path="res://menus/shop/ShopMenu.cs" type="Script" id=1]
+[ext_resource path="res://menus/shop/Buy/BuyMenu.cs" type="Script" id=2]
 [ext_resource path="res://menus/shop/Buy/Images/Buy Final.png" type="Texture2D" id=3]
 [ext_resource path="res://menus/shop/Buy/Images/Chosen Item.png" type="Texture2D" id=4]
 [ext_resource path="res://ui/inventory/Inventory Stackable Item Label.tscn" type="PackedScene" id=5]
 [ext_resource path="res://ui/inventory/Stackable Item Font.ttf" type="FontFile" id=6]
 [ext_resource path="res://menus/shop/Buy/Images/Close.png" type="Texture2D" id=7]
 [ext_resource path="res://ui/dashboard/OpenSans-Bold.ttf" type="FontFile" id=8]
-[ext_resource path="res://menus/shop/Sell/Sell.gd" type="Script" id=9]
+[ext_resource path="res://menus/shop/Sell/SellMenu.cs" type="Script" id=9]
 [ext_resource path="res://menus/shop/Sell/Images/Sell Final.png" type="Texture2D" id=10]
 [ext_resource path="res://ui/hotbar/Equipped Item Indicator.png" type="Texture2D" id=11]
 [ext_resource path="res://menus/shop/Sell/Images/+1.png" type="Texture2D" id=12]
@@ -3623,4 +3623,3 @@ _sections_unfolded = [ "Rect", "Textures" ]
 [connection signal="pressed" from="Sell/Sell" to="Sell" method="_on_Sell_pressed"]
 
 [connection signal="pressed" from="Sell/Close" to="." method="_close_shop_menu"]
-
