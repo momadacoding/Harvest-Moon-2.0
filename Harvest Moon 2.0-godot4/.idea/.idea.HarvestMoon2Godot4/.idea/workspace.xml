@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd1a6fbf-436b-4333-9e51-00504e5ea251" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.claude/settings.local.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/editor/MainMenu.tscn-editstate-02e680e802294bef3f1573aef332219e.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/editor/Player.cs-folding-2600b2fd068a3835b453e8450dff0ae6.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/bin/Debug/HarvestMoon2Godot4.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/bin/Debug/HarvestMoon2Godot4.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/HarvestM.4819F23E.Up2Date" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/HarvestMoon2Godot4.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/HarvestMoon2Godot4.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/HarvestMoon2Godot4.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/HarvestMoon2Godot4.sourcelink.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/HarvestMoon2Godot4.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/HarvestMoon2Godot4.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/HarvestMoon2Godot4.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HarvestMoon2Godot4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HarvestMoon2Godot4/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HarvestMoon2Godot4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HarvestMoon2Godot4/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.HarvestMoon2Godot4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game.cs.uid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HarvestMoon2Godot4.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HarvestMoon2Godot4.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NuGet.Config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/areas/Farm.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/areas/Farm.cs.uid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/areas/House.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/areas/House.cs.uid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/areas/IGameArea.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/areas/IGameArea.cs.uid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/areas/Town.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/areas/Town.cs.uid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grid/GridVisualizer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grid/GridVisualizer.cs.uid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menus/dialogue/Dialogue.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menus/dialogue/Dialogue.cs.uid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menus/graphics/GraphicsMenu.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menus/graphics/GraphicsMenu.cs.uid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menus/load/LoadGameMenu.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menus/load/LoadGameMenu.cs.uid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menus/main/MainMenu.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menus/main/MainMenu.cs.uid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menus/main/back to main menu button/BackToMainMenuButton.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menus/main/back to main menu button/BackToMainMenuButton.cs.uid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menus/pause/Back to Pause Menu Button/BackToPauseMenuButton.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menus/pause/Back to Pause Menu Button/BackToPauseMenuButton.cs.uid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menus/pause/PauseMenu.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menus/pause/PauseMenu.cs.uid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menus/pause/Save Game/BackToPauseMenuFromSaveMenu.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menus/pause/Save Game/BackToPauseMenuFromSaveMenu.cs.uid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menus/pause/Save Game/BackToSaveMenu.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menus/pause/Save Game/BackToSaveMenu.cs.uid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menus/pause/Save Game/SaveGameMenu.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menus/pause/Save Game/SaveGameMenu.cs.uid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menus/shop/Buy/BuyMenu.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menus/shop/Buy/BuyMenu.cs.uid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menus/shop/Sell/SellMenu.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menus/shop/Sell/SellMenu.cs.uid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menus/shop/ShopMenu.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menus/shop/ShopMenu.cs.uid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/player/Player.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/player/Player.cs.uid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/save_load/GameManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/save_load/GameManager.cs.uid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shaders/WorldShaders.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shaders/WorldShaders.cs.uid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sound/GameSoundManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sound/GameSoundManager.cs.uid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/dashboard/Dashboard.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/dashboard/Dashboard.cs.uid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/dashboard/timeManager/DashboardTimeManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/dashboard/timeManager/DashboardTimeManager.cs.uid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/dashboard/weather/DashboardWeather.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/dashboard/weather/DashboardWeather.cs.uid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/energy/EnergyBar.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/energy/EnergyBar.cs.uid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/hotbar/Hotbar.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/hotbar/Hotbar.cs.uid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/inventory/PlayerInventory.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/inventory/PlayerInventory.cs.uid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/Farm.gd-folding-7abdd929cb5441bf72d2f06ffd5c9e2a.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/Farm.cs-folding-9fb9a4c42d41833f1acc660a06f35c4d.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/Game.gd-folding-961257f400c9b963d53282b5e9e62781.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/MainMenu.cs-folding-21d5659e97b06fb64477958316948df9.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/MainMenu.tscn-folding-02e680e802294bef3f1573aef332219e.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/MainMenu.tscn-folding-02e680e802294bef3f1573aef332219e.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/editor_layout.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/editor_layout.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/editor_script_doc_cache.res" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/editor_script_doc_cache.res" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/filesystem_cache10" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/filesystem_cache10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/filesystem_update4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/project_metadata.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/project_metadata.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/script_editor_cache.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/script_editor_cache.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/global_script_class_cache.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/global_script_class_cache.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/uid_cache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/uid_cache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Game.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/Game.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/areas/Farm.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/areas/Farm.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/areas/House.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/areas/House.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/areas/Town.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/areas/Town.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grid/GridVisualizer.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grid/GridVisualizer.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/dialogue/Dialogue.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/dialogue/Dialogue.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/dialogue/Dialogue.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/menus/dialogue/Dialogue.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/graphics/Graphics.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/graphics/Graphics.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/graphics/Graphics.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/menus/graphics/Graphics.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/load/Load Game.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/load/Load Game.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/main/MainMenu.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/main/MainMenu.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/main/MainMenu.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/menus/main/MainMenu.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/main/back to main menu button/Back to Main Menu.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/main/back to main menu button/Back to Main Menu.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/main/back to main menu button/Back to Main Menu.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/menus/main/back to main menu button/Back to Main Menu.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/pause/Back to Pause Menu Button/Back to Pause Menu.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/pause/Back to Pause Menu Button/Back to Pause Menu.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/pause/Back to Pause Menu Button/Back to Pause Menu.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/menus/pause/Back to Pause Menu Button/Back to Pause Menu.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/pause/Pause.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/pause/Pause.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/pause/Pause.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/menus/pause/Pause.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/pause/Save Game/Back to Pause Menu from Save Menu.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/pause/Save Game/Back to Pause Menu from Save Menu.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/pause/Save Game/Back to Save Menu.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/pause/Save Game/Back to Save Menu.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/pause/Save Game/Save Game.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/pause/Save Game/Save Game.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/shop/Buy/Buy.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/shop/Buy/Buy.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/shop/Sell/Sell.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/shop/Sell/Sell.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/shop/Shop Menu.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/shop/Shop Menu.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menus/shop/Shop.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/menus/shop/Shop.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/player/Player.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/player/Player.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/player/Player.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/player/Player.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.godot" beforeDir="false" afterPath="$PROJECT_DIR$/project.godot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/save_load/GameManager.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/save_load/GameManager.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shaders/Shaders.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shaders/Shaders.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound/SoundManager.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound/SoundManager.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/dashboard/Dashboard.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/dashboard/Dashboard.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/dashboard/Dashboard.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/ui/dashboard/Dashboard.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/dashboard/timeManager/TimeManager.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/dashboard/timeManager/TimeManager.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/dashboard/weather/Weather.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/dashboard/weather/Weather.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/energy/Energy Bar.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/energy/Energy Bar.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/energy/Energy Bar.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/ui/energy/Energy Bar.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/hotbar/Hotbar.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/hotbar/Hotbar.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/hotbar/Hotbar.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/ui/hotbar/Hotbar.tscn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/inventory/Inventory.gd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/inventory/Inventory.gd.uid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/inventory/Inventory.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/ui/inventory/Inventory.tscn" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/SourceGeneratedDocuments/4D3614132D124DD6FB08DFC2/Godot.SourceGenerators/Godot.SourceGenerators.ScriptMethodsGenerator/BuyMenu_ScriptMethods.generated.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/835bac92dfd94732839efbaa77664df25e8000/95/f9da469f/NodePath.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/835bac92dfd94732839efbaa77664df25e8000/bf/3e033fb3/CSharpInstanceBridge.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/d361dbf8367b976d9fae99eb5590ab1ee9cfb279/GameManager_ScriptMethods.generated.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="3CQ2GiyjajgdyqLWcjWH4SJZ2lQ" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Executable.Player.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected=".NET Executable.Player">
+    <configuration name="Player GDScript" type="GDSCRIPT_DEBUG_RUN_CONFIGURATION" factoryName="GdScriptRunFactory" show_console_on_std_err="false" show_console_on_std_out="false" port="6006">
+      <option name="address" value="127.0.0.1" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Editor" type="RunExe" factoryName=".NET Executable">
+      <option name="EXE_PATH" value="E:/Godot_v4.6.2-stable_mono_win64/Godot_v4.6.2-stable_mono_win64.exe" />
+      <option name="PROGRAM_PARAMETERS" value="--path &quot;./&quot; --editor" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\liuhao\workspace\dev\Dev\Harvest-Moon-2.0\Harvest Moon 2.0-godot4" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="RUNTIME_TYPE" value="coreclr" />
+      <method v="2">
+        <option name="Build Solution" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Player" type="RunExe" factoryName=".NET Executable">
+      <option name="EXE_PATH" value="E:/Godot_v4.6.2-stable_mono_win64/Godot_v4.6.2-stable_mono_win64.exe" />
+      <option name="PROGRAM_PARAMETERS" value="--path &quot;./&quot;" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\liuhao\workspace\dev\Dev\Harvest-Moon-2.0\Harvest Moon 2.0-godot4" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="RUNTIME_TYPE" value="coreclr" />
+      <method v="2">
+        <option name="Build Solution" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd1a6fbf-436b-4333-9e51-00504e5ea251" name="Changes" comment="" />
+      <created>1776303379803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776303379803</updated>
+      <workItem from="1776303382326" duration="2909000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

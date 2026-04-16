@@ -525,4 +525,3 @@ func _get_location(location):
 #sets the game's type as either "new" or "loaded"
 func set_game_type(type):
 	game_type = type
-

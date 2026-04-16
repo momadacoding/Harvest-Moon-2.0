@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__godot__run_project",
+      "mcp__godot__get_debug_output",
+      "Bash(grep:*)",
+      "Bash(head -1 C:UsersliuhaoworkspacedevDevHarvest-Moon-2.0Harvest Moon 2.0-godot4/**/*.tscn)"
+    ]
+  }
+}
