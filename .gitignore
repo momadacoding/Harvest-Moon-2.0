@@ -1,0 +1,24 @@
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE files
+.idea/
+.vscode/
+.vs/
+
+# Godot project cache and editor state
+moon/.godot/
+moon/.import/
+
+# Local tool metadata
+moon/.claude/
+moon/*.DotSettings.user
+
+# Build/export outputs
+moon/build/
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp

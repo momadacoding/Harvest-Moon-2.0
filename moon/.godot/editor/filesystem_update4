@@ -1,5 +1,0 @@
-res://default_env.tres
-res://save_load/GameManager.gd
-res://menus/main/MainMenu.tscn
-res://menus/main/MainMenu.gd
-res://menus/dialogue/Dialogue.gd
